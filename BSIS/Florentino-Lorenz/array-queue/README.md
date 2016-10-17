@@ -9,6 +9,15 @@ Queue
  - You may also PEEK to show the last element added.
  - Implementation can either be in ARRAY or LINKED LIST.
  - It's algorithmic complexity is CONSTANT or O(1) for both ends (enqueue, dequeue).
+ 
+## Screenshots
+![Image 1](https://github.com/lvcc-dsa/Students/blob/master/BSIS/Florentino-Lorenz/array-queue/1.png)
+![Image 2](https://github.com/lvcc-dsa/Students/blob/master/BSIS/Florentino-Lorenz/array-queue/2.png)
+![Image 3](https://github.com/lvcc-dsa/Students/blob/master/BSIS/Florentino-Lorenz/array-queue/3.png)
+![Image 4](https://github.com/lvcc-dsa/Students/blob/master/BSIS/Florentino-Lorenz/array-queue/4.png)
+![Image 5](https://github.com/lvcc-dsa/Students/blob/master/BSIS/Florentino-Lorenz/array-queue/5.png)
+![Image 6](https://github.com/lvcc-dsa/Students/blob/master/BSIS/Florentino-Lorenz/array-queue/6.png)
+![Image 7](https://github.com/lvcc-dsa/Students/blob/master/BSIS/Florentino-Lorenz/array-queue/7.png)
 
 ## To Do:
 
