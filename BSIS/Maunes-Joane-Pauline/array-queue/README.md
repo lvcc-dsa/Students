@@ -85,3 +85,7 @@ Queue
      // try to dequeue again, return error message
     
     END PROGRAM
+    
+    
+    ![Screenshots] (Students/BSIS/Maunes-Joane-Pauline/array-queue/queue.png)
+    (Students/BSIS/Maunes-Joane-Pauline/array-queue/queue2.png)
