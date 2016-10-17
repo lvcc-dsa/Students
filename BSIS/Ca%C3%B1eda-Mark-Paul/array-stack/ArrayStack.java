@@ -21,8 +21,8 @@
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * 
 * SOURCE CODE: ArrayStack.java
 * AUTHOR NAME: Mark Paul A. Cañeda
-* GITHUB URL:  Markpaulcan/github.com
-* LAST UPDATE: August 23, 2016
+* GITHUB URL:  https://github.com/Markpaulcan
+* LAST UPDATE: October 17, 2016
 *
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * 
 */
