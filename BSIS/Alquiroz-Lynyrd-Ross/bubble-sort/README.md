@@ -1,6 +1,8 @@
 Bubble Sort
 =======================
 
+![image](https://github.com/lvcc-dsa/Students/blob/master/BSIS/Alquiroz-Lynyrd-Ross/bubble-sort/BubbleSort.png)
+
 ## Description
 
  - BUBBLE SORT is based on the idea of repeatedly comparing pairs of adjacent elements, then switching positions if they exist in the wrong order.
