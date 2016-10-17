@@ -3,9 +3,9 @@
 * - Generate random numbers accordingly.
 * - Get the sum, average, and maximum value
 *
-* @author  [your full name here]
-* @link    [full github url]
-* @version [version number]
+* @author  [Joane Pauline S. Maunes]
+* @link    [https://github.com/paulineMaunes]
+* @version [v.1.0]
 * @since   [last updated dd/mm/yyyy]
 */
 
