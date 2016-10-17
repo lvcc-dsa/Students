@@ -86,6 +86,7 @@ Queue
     
     END PROGRAM
     
+    #Screeshots
     
-    ![Screenshots] (Students/BSIS/Maunes-Joane-Pauline/array-queue/queue.png)
-    (Students/BSIS/Maunes-Joane-Pauline/array-queue/queue2.png)
+    ![Students/BSIS/Maunes-Joane-Pauline/array-queue/queue.png]
+    ![Students/BSIS/Maunes-Joane-Pauline/array-queue/queue2.png]
