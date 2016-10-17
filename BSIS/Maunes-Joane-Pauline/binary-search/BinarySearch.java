@@ -2,17 +2,38 @@
 * BINARY SEARCH is a Divide and Conquer algorithm that compares the item with the middle element of a sorted (ascending) array. 
 * Each step, the size of array is reduced to half until one single element remain and a match is found.
 *
-* @author  [your full name here]
-* @link    [full github url]
-* @version [version number]
-* @since   [last updated dd/mm/yyyy]
+* @author  [Joane Pauline S. Maunes]
+* @link    [https://github.com/paulineMaunes]
+* @version [v.1.5]
+* @since   [17/10/2016]
 */
 
-import java.util.*; // note: imports all classes inside java.util
+import java.util.*;
 
 public class BinarySearch {
 
 	static int array[], index, size, search;
+        
+        public static void BubbleSort(){
+            
+            int x, y, temp;
+            
+            for(x = 0; x < size-1; x++){
+              for(y = 0; y < size-1; y++){
+                  if (array[y] > array[y+1]){
+                  temp = array[y+1];
+                  array[y+1] = array[y];
+                  array[y] = temp;
+                  }
+             }
+            }
+             for(int a =0; a < size;a++){
+                  if(a%10 == 0){
+                     System.out.println();
+                  }
+                System.out.print(array[a]+ "\t");
+            }
+        }
 
 	public static void main(String[] args) {
 
@@ -26,15 +47,14 @@ public class BinarySearch {
 		System.out.println(size + " random numbers generated.");
 		
 		for (int i = 0; i < array.length; i++) {
-			// TODO: use nextInt() to assign random numbers (range of 1000) to array index
+                    array[i] = rand.nextInt(10000);
 		}
-		
-		// TODO: call bubbleSort method to sort the generated random numbers
+		BinarySearch.BubbleSort();
 		System.out.println();
 		
 		System.out.print("Enter number to find: ");
-		// TODO: use nextInt() to assign keyboard input as search item	
-		index = binarySearch(array, search); // note: assign the search result to array index where it was found	
+		search = input.nextInt();	
+		index = binarySearch(array, search);	
 		
 		if (index != -1) {
 			System.out.println("FOUND: " + search + " is at " + "array["+index+"]");
@@ -45,10 +65,10 @@ public class BinarySearch {
 
 	}
 
-	static int binarySearch(int[] numbers, int find) { // note: @param array[], search
+	static int binarySearch(int[] numbers, int find) { 
 
-		int left, right, middle;
-		// TODO: initialize value for left and right
+		int left = 0,  right = size-1, middle = left + (right-left) / 2;
+		
 		
 		while (left <= right) {
 			middle = left + (right - left) / 2;
@@ -56,18 +76,10 @@ public class BinarySearch {
 				return middle;
 			} else if (find < numbers[middle]) {
 				right = middle - 1;
-			} else { // if numbers[middle] < find
+			} else { 
 				left = middle + 1;
 			}
 		}
-		return -1; // note: exit loop if not found
+		return -1; 
 
 	}
-	
-	static int bubbleSort(int[] arr) {
-
-		// TODO: sort the random array first before searching
-
-	}
-
-}
