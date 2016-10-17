@@ -1,6 +1,8 @@
 Stack
 =======================
 
+![image](https://github.com/lvcc-dsa/Students/blob/master/BSIS/Alquiroz-Lynyrd-Ross/array-stack/ArrayStack.png)
+
 ## Description
 
  - A STACK is an ADT (abstract data type) in LIFO order (last in, first out).
