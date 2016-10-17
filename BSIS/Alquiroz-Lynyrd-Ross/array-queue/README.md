@@ -1,6 +1,8 @@
 Queue
 =======================
 
+![image](https://github.com/lvcc-dsa/Students/blob/master/BSIS/Alquiroz-Lynyrd-Ross/array-queue/ArrayQueue.png)
+
 ## Description
 
  - A QUEUE is an ADT (abstract data type) in FIFO order (first in, first out).
