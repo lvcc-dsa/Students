@@ -1,3 +1,5 @@
+![](https://github.com/lvcc-dsa/Students/blob/master/ACT/Ramos-Jaison/array-stack/arraysatck.png)
+
 Stack
 =======================
 
