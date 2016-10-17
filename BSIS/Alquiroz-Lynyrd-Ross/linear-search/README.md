@@ -1,6 +1,8 @@
 Linear Search
 =======================
 
+![image](https://github.com/lvcc-dsa/Students/blob/master/BSIS/Alquiroz-Lynyrd-Ross/linear-search/LinearSearch.png)
+
 ## Description
 
 - LINEAR SEARCH checks each item in a collection from the start to end until a match is found.
