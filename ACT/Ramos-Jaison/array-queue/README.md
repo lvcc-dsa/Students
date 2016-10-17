@@ -85,3 +85,11 @@ Queue
      // try to dequeue again, return error message
     
     END PROGRAM
+   
+   ##SCREEN CAPTURE OF ARRAY QUEQUE
+    ![](https://github.com/lvcc-dsa/Students/blob/master/ACT/Ramos-Jaison/array-queue/img/screen%20cap/queque1.PNG)
+    ![](https://github.com/lvcc-dsa/Students/blob/master/ACT/Ramos-Jaison/array-queue/img/screen%20cap/queque2.PNG)
+    ![](https://github.com/lvcc-dsa/Students/blob/master/ACT/Ramos-Jaison/array-queue/img/screen%20cap/queque3.PNG)
+    ![](https://github.com/lvcc-dsa/Students/blob/master/ACT/Ramos-Jaison/array-queue/img/screen%20cap/queque4.PNG)
+    ![](https://github.com/lvcc-dsa/Students/blob/master/ACT/Ramos-Jaison/array-queue/img/screen%20cap/queque5.PNG)
+    ![](https://github.com/lvcc-dsa/Students/blob/master/ACT/Ramos-Jaison/array-queue/img/screen%20cap/queque6.PNG)
