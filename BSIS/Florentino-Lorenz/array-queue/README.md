@@ -11,8 +11,8 @@ Queue
  - It's algorithmic complexity is CONSTANT or O(1) for both ends (enqueue, dequeue).
  
 ## Screenshots
-![Image 1](https://github.com/lvcc-dsa/Students/blob/master/BSIS/Florentino-Lorenz/array-queue/1.png)
-![Image 2](https://github.com/lvcc-dsa/Students/blob/master/BSIS/Florentino-Lorenz/array-queue/2.png)
+![Image 1](https://github.com/lvcc-dsa/Students/blob/master/BSIS/Florentino-Lorenz/array-queue/1.PNG)
+![Image 2](https://github.com/lvcc-dsa/Students/blob/master/BSIS/Florentino-Lorenz/array-queue/2.PNG)
 ![Image 3](https://github.com/lvcc-dsa/Students/blob/master/BSIS/Florentino-Lorenz/array-queue/3.png)
 ![Image 4](https://github.com/lvcc-dsa/Students/blob/master/BSIS/Florentino-Lorenz/array-queue/4.png)
 ![Image 5](https://github.com/lvcc-dsa/Students/blob/master/BSIS/Florentino-Lorenz/array-queue/5.png)
