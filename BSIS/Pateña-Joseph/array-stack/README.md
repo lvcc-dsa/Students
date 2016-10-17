@@ -75,3 +75,7 @@ Stack
      // try to pop again, expect pop error message
     
     END PROGRAM 
+    
+![](https://github.com/lvcc-dsa/Students/blob/master/BSIS/Pate%25C3%25B1a-Joseph/images/stackpic/1.PNG)
+![](https://github.com/lvcc-dsa/Students/blob/master/BSIS/Pate%25C3%25B1a-Joseph/images/stackpic/2.PNG)
+![](https://github.com/lvcc-dsa/Students/blob/master/BSIS/Pate%25C3%25B1a-Joseph/images/stackpic/3.PNG)
