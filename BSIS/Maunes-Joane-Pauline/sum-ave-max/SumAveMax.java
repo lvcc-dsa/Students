@@ -44,8 +44,7 @@ public class SumAveMax {
 	}
 
 	public void getAverage() {
-		// note: type casting = assigning a value of one type to a variable of another type
-		average = (float) sum / size; // note: type cast int to float
+		average = (float) sum / size; 
 		System.out.println("AVERAGE = " + average);
 	}
 
