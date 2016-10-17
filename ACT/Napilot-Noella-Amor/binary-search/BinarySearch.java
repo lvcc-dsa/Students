@@ -14,7 +14,7 @@ import java.util.Random;
 public class binarySearch{
   public static void main(String[]args){
   int[] array = new int[10];
-  int search, index, size, i;
+  int search, index, size, i, swap;
   
   Scanner input = new Scanner(System.in);
   Random ran = new Random();
@@ -28,7 +28,7 @@ public class binarySearch{
     
   for( i = 0; i < size; i++){
     array[i] = ran.nextInt(100);
-
+  BubbleSort(array);
   }
   
   System.out.print("Enter a number to find: ");
@@ -60,5 +60,13 @@ public class binarySearch{
   }
   }
   return -1;
+  }
+  static int BubbleSort(int[]args);
+  for(int a = 0; a < size - 1; a++){
+  for(int b = 0; b < size - i - 1; b++){
+  swap = array[b]
+  array[b] = array[b+1]
+  array[b+1] = swap
+  } 
   }
   }
