@@ -1,3 +1,11 @@
+/**
+* LINEAR SEARCH checks each item in a collection from start to end until a match is found. 
+*
+* @author  Mark Paul Cañeda
+* @link    https://github.com/Markpaulcan
+* @version 1.0
+* @since   October 17, 2016
+*/
 package linearsearch;
 import java.util.Scanner;
 import java.util.Random;
