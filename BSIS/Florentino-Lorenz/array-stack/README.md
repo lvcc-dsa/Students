@@ -10,6 +10,15 @@ Stack
  - Implementation can either be in ARRAY or LINKED LIST.
  - It's algorithmic complexity is CONSTANT or O(1).
 
+## Screenshots
+
+![Image 1](https://github.com/lvcc-dsa/Students/blob/master/BSIS/Florentino-Lorenz/array-stack/1.png)
+![Image 2](https://github.com/lvcc-dsa/Students/blob/master/BSIS/Florentino-Lorenz/array-stack/2.png)
+![Image 3](https://github.com/lvcc-dsa/Students/blob/master/BSIS/Florentino-Lorenz/array-stack/3.png)
+![Image 4](https://github.com/lvcc-dsa/Students/blob/master/BSIS/Florentino-Lorenz/array-stack/4.png)
+![Image 5](https://github.com/lvcc-dsa/Students/blob/master/BSIS/Florentino-Lorenz/array-stack/5.png)
+![Image 6](https://github.com/lvcc-dsa/Students/blob/master/BSIS/Florentino-Lorenz/array-stack/6.png)
+
 ## To Do:
 
  - Implement a STACK using ARRAY that can hold a maximum of 10 string values.
