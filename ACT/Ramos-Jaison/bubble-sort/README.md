@@ -21,4 +21,5 @@ Bubble Sort
       IF array[i] > array[i+1]
          swap([i], array[i+1])
     
-    END PROGRAM 
+    END PROGRAM
+    ![](https://github.com/lvcc-dsa/Students/blob/master/ACT/Ramos-Jaison/bubble-sort/buble.jpg)
