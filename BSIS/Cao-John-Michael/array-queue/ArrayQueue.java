@@ -6,7 +6,7 @@
 * @link    [full github url]
 * @version [version number]
 * @since   [last updated dd/mm/yyyy]
-*/
+*
 
 public class ArrayQueue {
   
@@ -127,4 +127,128 @@ public class ArrayQueue {
     storage.show();
   }  
 
-}
+}*/
+
+
+/** 
+ * Java implementation of a queue using array. 
+ * For demo purpose, should hold a maximum of 10 integers. 
+ * 
+ * @author  [John MIchael Cao] 
+ * @link    [https://github.com/lvcc-dsa/Students/blob/master/BSIS/Cao-John-Michael/array-queue/ArrayQueue.java] 
+ * @version [final build] 
+ * @since   [17/10/2016] 
+ */ 
+ 
+ 
+ public class Queue { 
+ 
+     String [] arrQueue; 
+     int head=0, tail=0, arrSize; 
+ 
+     public Queue(int size) { 
+         arrSize = size; 
+         arrQueue = new String[arrSize]; 
+     } 
+     
+     
+     public void Show(){ 
+         System.out.println();         
+         for(int i=0; i<arrSize; i++){ 
+             System.out.println("Queue [" + i + "] = " + arrQueue[i]); 
+         } 
+         System.out.println(); 
+     } 
+      
+     
+     public boolean isEmpty(){ 
+         if((tail == -1) && (head == -1)){ 
+             return true; 
+         } else { 
+             return false; 
+         } 
+     } 
+     
+      
+     public boolean isFull(){ 
+         if(arrSize-1 == tail){ 
+             return true; 
+         } else { 
+             return false; 
+         } 
+     } 
+     
+      
+     public void Enqueue(String input){ 
+         if(isFull()){ 
+             System.out.println("Queue is FULL! Failed to Enqueue."); 
+         } else if (isEmpty()){ 
+             head =0; 
+             tail=0; 
+             arrQueue[tail] = input; 
+         } else { 
+             tail++; 
+             arrQueue[tail] = input; 
+         } 
+     } 
+
+     
+     public void Dequeue(){ 
+         if(isEmpty()){ 
+             System.out.println("Queue is EMPTY! Failed Dequeue."); 
+         } else if(head == tail){ 
+             arrQueue[head] = null; 
+             head= -1; 
+             tail = -1; 
+             System.out.println(); 
+             System.out.println("Dequeue Successful!"); 
+         } else { 
+             arrQueue[head] = null; 
+             head ++; 
+             System.out.println(); 
+             System.out.println("Dequeue Successfu1!"); 
+         } 
+     } 
+      
+     
+     public void Peek(){ 
+         System.out.println(); 
+         System.out.println("Queue [" + tail + "] = " + arrQueue[tail]); 
+     } 
+     
+     
+      public static void main(String[] args){ 
+        Queue obj = new Queue(10); 
+        System.out.println("Queue Size: " + obj.arrSize); 
+ 
+ 
+      
+       obj.Show();  //show on empty queue 
+       obj.Enqueue("one"); 
+       obj.Enqueue("two"); 
+       obj.Enqueue("three"); 
+       obj.Enqueue("four"); 
+       obj.Enqueue("five"); 
+       obj.Enqueue("six"); 
+       obj.Enqueue("seven"); 
+       obj.Enqueue("eight"); 
+       obj.Enqueue("nine"); 
+       obj.Enqueue("ten");         
+       obj.Show();
+       obj.Enqueue("eleven");   //enqueue on full queue 
+       obj.Dequeue();   //dequeue last element 
+       obj.Peek();   //peek last element 
+       obj.Dequeue(); 
+       obj.Dequeue(); 
+       obj.Dequeue(); 
+       obj.Dequeue(); 
+       obj.Dequeue(); 
+       obj.Dequeue(); 
+       obj.Dequeue(); 
+       obj.Dequeue(); 
+       obj.Dequeue(); 
+       obj.Show();    
+       obj.Dequeue();  //Dequeue on empty Queue 
+      }     
+      
+ } 
