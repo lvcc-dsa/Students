@@ -85,3 +85,19 @@ Queue
      // try to dequeue again, return error message
     
     END PROGRAM
+##
+   ![](https://github.com/lvcc-dsa/Students/blob/master/BSIS/Pangan-Sarah/array-queue/q.png)
+   ![](https://github.com/lvcc-dsa/Students/blob/master/BSIS/Pangan-Sarah/array-queue/q2.png)
+   ![](https://github.com/lvcc-dsa/Students/blob/master/BSIS/Pangan-Sarah/array-queue/q3.png)
+   ![](https://github.com/lvcc-dsa/Students/blob/master/BSIS/Pangan-Sarah/array-queue/q4.png)
+   ![](https://github.com/lvcc-dsa/Students/blob/master/BSIS/Pangan-Sarah/array-queue/q5.png)
+   ![](https://github.com/lvcc-dsa/Students/blob/master/BSIS/Pangan-Sarah/array-queue/q6.png)
+   ![](https://github.com/lvcc-dsa/Students/blob/master/BSIS/Pangan-Sarah/array-queue/q7.png)
+   ![](https://github.com/lvcc-dsa/Students/blob/master/BSIS/Pangan-Sarah/array-queue/q8.png)
+   ![](https://github.com/lvcc-dsa/Students/blob/master/BSIS/Pangan-Sarah/array-queue/q9.png)
+   ![](https://github.com/lvcc-dsa/Students/blob/master/BSIS/Pangan-Sarah/array-queue/q10.png)
+   ![](https://github.com/lvcc-dsa/Students/blob/master/BSIS/Pangan-Sarah/array-queue/q11.png)
+   ![](https://github.com/lvcc-dsa/Students/blob/master/BSIS/Pangan-Sarah/array-queue/q12.png)
+   ![](https://github.com/lvcc-dsa/Students/blob/master/BSIS/Pangan-Sarah/array-queue/q13.png)
+   ![](https://github.com/lvcc-dsa/Students/blob/master/BSIS/Pangan-Sarah/array-queue/q14.png)
+    
