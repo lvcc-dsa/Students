@@ -1,3 +1,4 @@
+![](https://github.com/lvcc-dsa/Students/blob/master/ACT/Ramos-Jaison/linear-search/linearSearch.png)
 Linear Search
 =======================
 
