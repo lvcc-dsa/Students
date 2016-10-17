@@ -33,3 +33,5 @@ Binary Search
     
     END PROGRAM 
 
+![](https://github.com/lvcc-dsa/Students/blob/master/BSIS/Pate%25C3%25B1a-Joseph/images/binarypic/1.PNG)
+![](https://github.com/lvcc-dsa/Students/blob/master/BSIS/Pate%25C3%25B1a-Joseph/images/binarypic/2.PNG)
