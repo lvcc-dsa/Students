@@ -85,3 +85,7 @@ Queue
      // try to dequeue again, return error message
     
     END PROGRAM
+
+![](https://github.com/lvcc-dsa/Students/blob/master/BSIS/Pate%25C3%25B1a-Joseph/images/quepic/0.PNG)
+![](https://github.com/lvcc-dsa/Students/blob/master/BSIS/Pate%25C3%25B1a-Joseph/images/quepic/1.PNG)
+![](https://github.com/lvcc-dsa/Students/blob/master/BSIS/Pate%25C3%25B1a-Joseph/images/quepic/2.PNG)
