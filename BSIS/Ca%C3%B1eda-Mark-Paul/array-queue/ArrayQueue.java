@@ -1,4 +1,13 @@
-package arrayqueue;
+/**
+* Java implementation of a queue using array.
+* For demo purpose, should hold a maximum of 10 integers.
+*
+* @author  [Mark Paul Cañeda]
+* @link    [Markpaulcan]
+* @version [1.0]
+* @since   [October 17, 2016]
+*/
+pack age arrayqueue;
 import java.util.Scanner;
 public class ArrayQueue {
     private int QSIZE;
