@@ -3,10 +3,10 @@
 * - Generate random numbers accordingly.
 * - Get the sum, average, and maximum value
 *
-* @author  [your full name here]
-* @link    [full github url]
+* @author  [Otadoy, Chery Ann P.]
+* @link    [https://github.com/Chery02]
 * @version [version number]
-* @since   [last updated dd/mm/yyyy]
+* @since   [last updated 10/17/16]
 */
 
 import java.util.Scanner;
