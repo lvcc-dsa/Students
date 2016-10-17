@@ -24,3 +24,6 @@ Linear Search
          PRINT NOT FOUND
     
     END PROGRAM 
+
+
+![](https://github.com/lvcc-dsa/Students/blob/master/ACT/Macapagal-Rangel-Angelo/linear-search/Linear.png)
