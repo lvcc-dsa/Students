@@ -6,6 +6,11 @@ Linear Search
 - LINEAR SEARCH checks each item in a collection from the start to end until a match is found.
 -  It's worse case algorithmic time complexity is LINEAR or O(n).
 
+## Screenshots
+
+![Image 1](https://github.com/lvcc-dsa/Students/blob/master/BSIS/Florentino-Lorenz/linear-search/1.png)
+![Image 2](https://github.com/lvcc-dsa/Students/blob/master/BSIS/Florentino-Lorenz/linear-search/2.png)
+
 ## To Do:
 
 - Accepts keyboard input to set size of array.
