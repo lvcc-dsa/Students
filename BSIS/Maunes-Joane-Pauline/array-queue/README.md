@@ -88,5 +88,5 @@ Queue
     
     #Screeshots
     
-    ![]Students/BSIS/Maunes-Joane-Pauline/array-queue/queue.png
+    ![picture]Students/BSIS/Maunes-Joane-Pauline/array-queue/queue.png
     ![]Students/BSIS/Maunes-Joane-Pauline/array-queue/queue2.png
