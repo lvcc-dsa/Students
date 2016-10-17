@@ -1,6 +1,8 @@
 Binary Search
 =======================
 
+![image](https://github.com/lvcc-dsa/Students/blob/master/BSIS/Alquiroz-Lynyrd-Ross/binary-search/BinarySearch.png)
+
 ## Description
 
 - BINARY SEARCH is a Divide and Conquer algorithm that compares the item with the middle element of a sorted (ascending) array. 
