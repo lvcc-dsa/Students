@@ -1,3 +1,4 @@
+   ![](https://github.com/lvcc-dsa/Students/blob/master/ACT/Ramos-Jaison/bubble-sort/buble.jpg)
 Bubble Sort
 =======================
 
@@ -22,4 +23,4 @@ Bubble Sort
          swap([i], array[i+1])
     
     END PROGRAM
-    ![](https://github.com/lvcc-dsa/Students/blob/master/ACT/Ramos-Jaison/bubble-sort/buble.jpg)
+
