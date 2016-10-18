@@ -24,3 +24,7 @@ Linear Search
          PRINT NOT FOUND
     
     END PROGRAM 
+
+## Screenshot
+
+![alt text](img3.png)
