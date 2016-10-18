@@ -1,1 +1,1 @@
-Artuza, Janbert [@janbertartuza23](https://github.com/janbertartuza23)
+Artuza, Janbert  [@janbertartuza23](https://github.com/janbertartuza23)
