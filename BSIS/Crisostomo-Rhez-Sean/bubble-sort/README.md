@@ -22,3 +22,6 @@ Bubble Sort
          swap([i], array[i+1])
     
     END PROGRAM 
+
+## Screenshot
+![alt text](img4.png)
