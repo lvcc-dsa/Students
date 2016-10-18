@@ -2,23 +2,23 @@
 * Java implementation of a queue using array.
 * For demo purpose, should hold a maximum of 10 integers.
 *
-* @author  [your full name here]
-* @link    [full github url]
+* @author  [Ma.Ruth N. Berce]
+* @link    [github.com/maruthberce20]
 * @version [version number]
 * @since   [last updated dd/mm/yyyy]
 */
 
 public class ArrayQueue {
   
-  // note: variable declarations
-  private int capacity; // note: optional, you may also use array.length
-  private int head; // note: value of front item
-  private int tail; // note: counter number of tail
-  private int[] storage; // note: array is of integer values
   
-  // note: constructor = initialize an object instance of the class
+  private int capacity;
+  private int head;
+  private int tail; 
+  private int[] storage;
+  
+ 
   public ArrayQueue(int size) {
-    capacity = size; // note: optional, can directly pass a new int[size]
+    capacity = size;
     storage = new int[capacity];
     // todo: initialize values for tail, head, and tail
   } 
@@ -27,7 +27,7 @@ public class ArrayQueue {
   public void show() {
     // note: the top of the queue starts from array[0] then newer item gets added on the tail and removes in the front
     for (int i = 0; i < capacity; i++) {
-      System.out.println("queue["+ i +"] = " + storage[]); // todo: use adjust(head+i) to adjust each item's position
+      System.out.println("queue["+ (i+1) +"] = " + storage[i]);
     }
       System.out.println(); // note: prints optional new line for readability
   }
@@ -35,8 +35,8 @@ public class ArrayQueue {
   // note: will check if it's true that the array is empty
   private boolean isEmpty() {
     if (tail == 0) { // note: checks if numbers tail has reached 0 or empty
-      System.out.println(" "); // todo: print error message here
-      System.out.println(); // note: this prints optional new line for readability
+      System.out.println("Error. Queue is empty."); 
+      System.out.println(); 
       return true;
     } 
     return false; // note: defaults to false
@@ -44,7 +44,7 @@ public class ArrayQueue {
 
   private boolean isFull() {
     if (tail == capacity) { // note: compares if number of tail has reached capacity limit
-      System.out.println(" "); // todo: print error message here
+      System.out.println("Queue is full. "); 
       System.out.println(); // note: this prints optional new line for readability
       return true;
     } 
@@ -55,13 +55,13 @@ public class ArrayQueue {
   public void enqueue(int value) {
     if (isFull()) {
       System.out.println("... trying to enqueue on queue[" + (tail-1) + "] ...");
-      System.out.println(" "); // todo: print error message here
+      System.out.println("Adding failed. Queue is full. ");
       System.out.println(); // note: prints optional new line for readability
     } else {
       System.out.println("... trying to enqueue on queue[" + tail + "] ...");
-      storage[adjust(head + tail)]; // todo: assign the value to the adjusted position of head
-      tail; // todo: should increment or decrement?
-      System.out.println(value + " was successfully _________."); // todo: what does enqueue do?
+      storage[adjust(head + tail=value]; 
+      tail++; 
+      System.out.println(value + " was successfully added."); // todo: what does enqueue do?
       System.out.println(); // note: prints optional new line for readability
     }
   }
@@ -70,15 +70,15 @@ public class ArrayQueue {
   public int dequeue() {    
     if (isEmpty()) { // note: checks if empty, then stop
       System.out.println("... trying to dequeue head ...");
-      System.out.println(" "); // print error message here
+      System.out.println("No value to removed."); 
       System.out.println(); // prints optional new line for readability
     } else {  
       System.out.println("... trying to dequeue head ...");
-      int temp; // todo: pass the value of head to a temporary variable
-      storage[head]; // todo: now, empty the value of current head
+      int temp=head; 
+      storage[head]=0; 
       adjust(head + 1); // todo: pass the next value as new head
-      tail; // todo: should increment or decrement?
-      System.out.println(head + " was successfully _________."); // todo: what does dequeue do?
+      tail++;
+      System.out.println(head + " was successfully removed.");
       System.out.println(); // note: prints optional new line for readability
       return temp; // note: returns the temp as head
     }
