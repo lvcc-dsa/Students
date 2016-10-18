@@ -75,3 +75,8 @@ Stack
      // try to pop again, expect pop error message
     
     END PROGRAM 
+
+## Screenshot
+
+![alt](screenshot1.png)
+![alt](screenshot2.png)

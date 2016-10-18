@@ -9,9 +9,9 @@
 * @since   [last updated 6/10/2016]
 */
 
-package sumavemax;
 import java.util.Scanner;
 import java.util.Random;
+
 public class SumAveMax {
     
     public static void main(String[] args) {

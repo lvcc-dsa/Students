@@ -7,9 +7,9 @@
 * @since   6/10/2016
 */
 
-package linearsearch;
 import java.util.Scanner;
 import java.util.Random;
+
 public class LinearSearch {
     public static void main(String[] args) {
         int i, size, search, array[];

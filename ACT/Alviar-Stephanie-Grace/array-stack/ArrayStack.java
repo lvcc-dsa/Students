@@ -8,8 +8,6 @@
 * @since   [last updated 6/10/2016]
 */
 
-package arraystack;
-
 public class ArrayStack {
 
    private int capacity;
