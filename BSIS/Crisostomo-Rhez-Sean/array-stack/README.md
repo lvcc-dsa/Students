@@ -85,4 +85,4 @@ Stack
 ![alt text](img6.5.png)
 ![alt text](img6.6.png)
 ![alt text](img6.7.png)
-![alt text](img6.8.png))
+![alt text](img6.8.png)
