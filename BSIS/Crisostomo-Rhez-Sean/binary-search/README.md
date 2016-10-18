@@ -33,6 +33,6 @@ Binary Search
     
     END PROGRAM 
 
-## Screenshots
+## Screenshot
 
 ![alt text](img5.png)
