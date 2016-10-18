@@ -1,1 +1,1 @@
-Adao, Evan Joshua   [@Joshua-Adao](https://github.com/Joshua-Adao)
+Adao, Evan Joshua [@Joshua-Adao](https://github.com/Joshua-Adao)
