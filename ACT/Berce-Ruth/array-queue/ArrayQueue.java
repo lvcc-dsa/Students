@@ -5,7 +5,7 @@
 * @author  [Ma.Ruth N. Berce]
 * @link    [github.com/maruthberce20]
 * @version [version number]
-* @since   [last updated dd/mm/yyyy]
+* @since   [last updated 10/18/2016]
 */
 
 public class ArrayQueue {
