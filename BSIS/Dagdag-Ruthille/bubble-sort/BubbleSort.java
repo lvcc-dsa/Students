@@ -2,13 +2,13 @@
 * BUBBLE SORT is based on the idea of repeatedly comparing pairs of 
 * adjacent elements, then switching positions if they exist in the wrong order.
 *
-* @author  [your full name here]
-* @link    [full github url]
+* @author  [Ruthille Dagdag]
+* @link    [https://github.com/lvcc-dsa/Students/edit/master/BSIS/Dagdag-Ruthille/bubble-sort/BubbleSort.java]
 * @version [version number]
-* @since   [last updated dd/mm/yyyy]
+* @since   [18 October, 2016]
 */
 
-// TODO: import Scanner and Random from Java library
+import java.util.Scanner;
 
 public class BubbleSort {
 
