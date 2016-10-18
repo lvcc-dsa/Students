@@ -1,5 +1,5 @@
 /**
-@author  [Janbert Q Artuza]
+* @author  [Janbert Q Artuza]
 * @link    [https://github.com/janbertartuza23]
 * @version [1.0]
 * @since   [last updated 13/Oct/2016]
