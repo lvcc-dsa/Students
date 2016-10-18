@@ -1,13 +1,10 @@
-
-package findminmax;
-
 /**
- *
  * @author [Adao Evan Joshua A.]
  * @link [@Joshua-Adao]
  * @version [version number]
  * @since [last updated 06/10/2016]
  */
+
 public class FindMinMax {
 	public static void main(String[] args) {
 		int[] numbers = { 88, 33, 55, 23, 64, 123 };

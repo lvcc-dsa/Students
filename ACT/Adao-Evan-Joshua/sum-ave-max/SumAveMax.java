@@ -4,14 +4,9 @@
 * @version [version number]
 * @since   [last updated 5/10/2016]
 */
- 
-package sumavemax;
+
 import java.util.*;
-import java.util.Random;
-/**
- *
- * @author Me
- */
+
 public class SumAveMax {
     private int sum, max, size, array[];
     private float average;

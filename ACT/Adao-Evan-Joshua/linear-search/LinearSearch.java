@@ -4,13 +4,8 @@
     [2.0]
     [10/06/2016]*/
       
-package linearsearch;
 import java.util.*;
-import java.util.Random;
-/**
- *
- * @author Me
- */
+
 public class LinearSearch {
      public static void main(String[] args) {
         int i, size, search, array[];
