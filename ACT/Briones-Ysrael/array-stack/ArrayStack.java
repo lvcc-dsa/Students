@@ -8,7 +8,6 @@
 * @since   [last updated 17/10/2016]
 */
 
-package arraystack;
 public class ArrayStack {
         private int capacity;
 	private int top = 0;

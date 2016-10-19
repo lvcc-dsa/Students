@@ -8,7 +8,6 @@
 * @since   [last updated 17/10/2016]
 */
 
-package arrayqueue;
 public class ArrayQueue {
      
     private int capacity;
