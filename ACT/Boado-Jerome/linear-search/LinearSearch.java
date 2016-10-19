@@ -7,10 +7,9 @@
 * @since   22/09/2016
 */
 
-package lineararray;
 import java.util.Scanner;
 import java.util.Random;
-public class LinearArray {
+public class LinearSearch {
 
     public static void main(String[] args) {
     Scanner Jerome = new Scanner(System.in);

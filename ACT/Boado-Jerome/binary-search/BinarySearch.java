@@ -8,7 +8,6 @@
 * @since   [last updated dd/mm/yyyy]
 */
 
-package binarysearch;
 import java.util.*;
 import java.util.Random;
 import java.util.*;

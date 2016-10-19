@@ -1,4 +1,3 @@
-package findminmax;
 import java.util.Random;
 import java.util.Scanner;
 public class FindMinMax {

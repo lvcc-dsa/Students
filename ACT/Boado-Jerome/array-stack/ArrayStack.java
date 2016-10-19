@@ -8,9 +8,8 @@
 * @since   [last updated dd/mm/yyyy]
 */
 
-package arraystack;
 public class ArrayStack {
-        private int capacity;
+    private int capacity;
 	private int top = 0;
 	private String [] array;
 	public ArrayStack(int size) {

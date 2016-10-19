@@ -8,7 +8,6 @@
 * @since   [last updated dd/mm/yyyy]
 */
 
-package arrayqueue;
 public class ArrayQueue {
 	private int queue[];
 	private int aw = 0;

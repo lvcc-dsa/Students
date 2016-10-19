@@ -8,10 +8,10 @@
 * @version [version number]
 * @since   [last updated dd/mm/yyyy]
 */
-package arraybasics;
+
 import java.util.Scanner;
 import java.util.Random;
-public class Arraybasics {
+public class SumAveMax {
 
 public static void main(String[] args) {
 Scanner Jerome = new Scanner(System.in);
@@ -22,8 +22,6 @@ System.out.print("Enter Array Size? ");
     for (int j = 0; j < Laman.length; j++) {
         Laman[j] = jerome.nextInt(100)+1;
         System.out.println(" Random number for?  ["+(j+1)+"]: "+Laman[j]);
-     
-        
     }
        int total = 0;
         for (int i = 0; i < Laman.length; i++) {

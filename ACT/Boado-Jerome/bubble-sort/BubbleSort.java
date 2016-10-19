@@ -8,9 +8,6 @@
 * @since   [last updated dd/mm/yyyy]
 */
 
-// TODO: import Scanner and Random from Java library
-
-package bubblesort;
 import java.util.Scanner;
 import java.util.Random;
 public class BubbleSort {
