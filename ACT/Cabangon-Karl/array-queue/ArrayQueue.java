@@ -8,13 +8,12 @@
 * @since   [last updated 06/10/2016]
 */
 
-package Package;
-public class QUEUE {
+public class ArrayQueue {
 	private int QSIZE;
 	private int[]queue;
 	private int nItems = 0;
 
-	public QUEUE (int size) {
+	public ArrayQueue (int size) {
 		this.QSIZE= size;
 		this.queue = new int[this.QSIZE];
 	}
@@ -104,7 +103,7 @@ public class QUEUE {
 
 	public static void main(String[]args){
 		
-		QUEUE queueFunction = new QUEUE(10);
+		ArrayQueue queueFunction = new ArrayQueue(10);
 		  queueFunction.showQueue();
 		  queueFunction.enqueue(3);
 		  queueFunction.showQueue();

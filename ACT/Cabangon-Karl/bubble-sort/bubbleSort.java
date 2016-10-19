@@ -10,10 +10,10 @@
 
 import java.util.Scanner;
 import java.util.Random;
-public class bubbleSort {
+public class BubbleSort {
     public int array[];
     public int capacity;
-        public bubbleSort(int size){
+    public BubbleSort(int size){
         capacity = size;
         array = new int[capacity];
     }
@@ -78,7 +78,7 @@ public class bubbleSort {
         Scanner input= new Scanner(System.in);
         System.out.print("Enter array size: ");
         gitna = input.nextInt();
-        bubbleSort laman = new bubbleSort(gitna);
+        BubbleSort laman = new BubbleSort(gitna);
         laman.getArray();
         laman.show();
         laman.Sorting();
