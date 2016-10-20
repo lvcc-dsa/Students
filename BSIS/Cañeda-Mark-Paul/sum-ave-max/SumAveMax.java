@@ -1,8 +1,8 @@
 /*
 SOURCE CODE: Sum-Ave-Max
 AUTHOR NAME: Mark Paul A. Cañeda
-GITHUB URL:  github.com
-LAST UPDATE: September 22, 2016
+GITHUB URL:  https://github.com/Markpaulcan
+LAST UPDATE: October 17, 2016
 */
 package sum.ave.max;
 import java.util.Scanner;

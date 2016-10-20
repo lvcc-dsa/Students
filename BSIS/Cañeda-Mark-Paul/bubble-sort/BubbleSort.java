@@ -5,8 +5,8 @@
 /*
 SOURCE CODE: BubbleSort
 AUTHOR NAME: Mark Paul A. Caneda
-GIHUB URL:   Markpaulcan/github.com
-LAST UPDATE: September 22, 2016
+GIHUB URL:   https://github.com/Markpaulcan
+LAST UPDATE: October 17, 2016
 */
 
 package bubblesort;

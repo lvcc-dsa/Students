@@ -1,26 +1,8 @@
-Bubble Sort
-=======================
 
-## Description
+OUTPUT:
 
- - BUBBLE SORT is based on the idea of repeatedly comparing pairs of adjacent elements, then switching positions if they exist in the wrong order.
- - It's worse case algorithmic time complexity is QUADRATIC or O(n^2).
+![alt text][img1]
+![alt text][img2]
 
-## To Do:
-
-- Accepts keyboard input to set size of array.
-- Generate random numbers to array accordingly.
-- Show unsorted random numbers.
-- Show sorted numbers after.
-
-## Pseudocode:
-
-    START PROGRAM
-    
-     FOR each number IN array
-      IF array[i] > array[i+1]
-         swap([i], array[i+1])
-    
-    END PROGRAM 
-![alt text] [img1]
-[img1]:https://github.com/lvcc-dsa/Students/blob/master/BSIS/Ca%C3%B1eda-Mark-Paul/bubble-sort/bubblesort.png
+[img1]:https://github.com/lvcc-dsa/Students/blob/master/BSIS/Ca%25C3%25B1eda-Mark-Paul/bubble-sort/bubblesort!.JPG
+[img2]:https://github.com/lvcc-dsa/Students/blob/master/BSIS/Ca%25C3%25B1eda-Mark-Paul/bubble-sort/bubblesort.JPG
